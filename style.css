@@ -59,7 +59,7 @@ section{
     min-height:100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient( rgba(45, 4, 4, 0.5),rgba(0,0,0,0.5)) , url(images/605206.jpg) no-repeat;
+    background: linear-gradient( rgba(45, 4, 4, 0.5),rgba(0,0,0,0.5)) , url(605206.jpg) no-repeat;
 background-size: contain;
     
      background-position: center center;
